@@ -29,4 +29,4 @@ This initial version employs a brute-force approach to explore all possible path
 + Finish scientific paper
 
 ## Vehicle routing problem (VRP) Problem Exploration
-[Problem Exploration](/README.md)
+[Problem Exploration](/PRV Jericalla Perrito.pdf)

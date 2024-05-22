@@ -21,6 +21,10 @@ This initial version employs a brute-force approach to explore all possible path
 
 ## Program
 [Perro Jericallo Graph Shortest Path Finder](/Perro_Jericallo.py)
+![Screenshot_1](https://github.com/Fabian-J-Escalante/JericallaPerro-Heuristic-Shortest-Path/assets/106487460/84d146b0-bd76-487c-94fb-f908a41e2d3d)
+![imagen](https://github.com/Fabian-J-Escalante/JericallaPerro-Heuristic-Shortest-Path/assets/106487460/36ae9034-ccd9-43e6-8baa-8f6911a04ca5)
+
+
 
 ## Final Paper
 [Perro Jericallo Scientific paper](/Reporte_Final.pdf)

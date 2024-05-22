@@ -13,20 +13,18 @@ Presented at class the 5/13/2024
 
 This initial version employs a brute-force approach to explore all possible paths between the start and end vertices, ultimately identifying the path with the minimum distance. 
 
-**To use the JericallaPerrito Graph Shortest Path Finder, follow these steps:**
+**To use the Perro Jericallo Graph Shortest Path Finder, follow these steps:**
 
 + Initialize the graph with the desired number of vertices
 + Initialize the inicio and fin variables to determine the two nodes you will make a path for
-+ Call the FuerzaBruta function with the start and end vertices to find the shortest path
++ Call the FuerzaBruta and DivideYVenceras functions with the start and end vertices to find the shortest path using frontend
 
-**Future work:**
-+ Complete the problem solution
-+ Add graphic interface
-+ Maybe add divide and conquer or dynamic programming besides brute force strategy
-+ Add time complexity graph
-+ Compare the strategies
-+ Solve with heuristic algorithm
-+ Finish scientific paper
+## Program
+[Perro Jericallo Graph Shortest Path Finder](/Perro_Jericallo.py)
 
-## Vehicle routing problem (VRP) Problem Exploration
-[Problem Exploration](/Reporte_Final.pdf)
+## Final Paper
+[Perro Jericallo Scientific paper](/Reporte_Final.pdf)
+
+## Video
+https://github.com/Fabian-J-Escalante/JericallaPerro-Heuristic-Shortest-Path/assets/106487460/6ae4732b-c222-4adb-a3cd-06f74c6a79af
+

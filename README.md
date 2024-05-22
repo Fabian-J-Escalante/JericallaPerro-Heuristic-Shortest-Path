@@ -30,6 +30,8 @@ This initial version employs a brute-force approach to explore all possible path
 ## Final Paper
 [Perro Jericallo Scientific paper](/Reporte_Final.pdf)
 
+![imagen](https://github.com/Fabian-J-Escalante/JericallaPerro-Heuristic-Shortest-Path/assets/106487460/e0e001e7-3138-450c-a46a-f56fee7241b7)
+
 ## Video
 https://github.com/Fabian-J-Escalante/JericallaPerro-Heuristic-Shortest-Path/assets/106487460/6ae4732b-c222-4adb-a3cd-06f74c6a79af
 
